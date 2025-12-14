@@ -1,0 +1,1 @@
+seq_transformation_4_ntu120.py -> works, it generates ntu120 dataset using infoGCN and SGN seq_transformation.py files by coupling them
